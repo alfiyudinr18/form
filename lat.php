@@ -11,9 +11,9 @@
     <label>Nama </label>
     <input type="text" name="nama" required><br>
     <label>Nilai 1 </label>
-    <input type="text" name="nilai1" required><br>
+    <input type="number" name="nilai1" required><br>
     <label>Nilai 2 </label>
-    <input type="text" name="nilai2" required><br>
+    <input type="number" name="nilai2" required><br>
     <input type="submit" name="input" value="input"> 
     <input type="reset" value="reset"> 
     </form>
