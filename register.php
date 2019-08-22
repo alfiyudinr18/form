@@ -11,7 +11,7 @@
     <legend align="center"><h1>Hal Register</h1></legend>
         <form action="regtam.php" method="POST">
         Nama <br><input type="text" name="nama" required><br>
-        Alamat <br><input type="text" name="al" required><br>
+        Alamat <br><textarea name="al" cols="30" rows="10"></textarea><br>
         Jenis Kelamin <br> 
         <input type="radio" name="jk" value="Laki-laki" required>Laki-laki
         <input type="radio" name="jk" value="Permepuan" required>Perempuan<br>
