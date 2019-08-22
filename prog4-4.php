@@ -7,7 +7,7 @@
     <title>Form</title>
 </head>
 <body>
-    <form action="latihan4-5.php" method="GET">
+    <form action="prog4-5.php" method="GET">
     <label>Nama : </label>
     <input type="text" name="nama" required><br>
     <input type="submit" name="input" value="input">
