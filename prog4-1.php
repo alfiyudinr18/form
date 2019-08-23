@@ -9,8 +9,8 @@
 <body>
     <form action="" method="POST">
     <label>Nama : </label>
-    <input type="text" name="nama" required><br>
-    <input type="submit" name="input" value="input"> 
+        <input type="text" name="nama" required><br>
+        <input type="submit" name="input" value="input"> 
     </form>
 </body>
 </html>
