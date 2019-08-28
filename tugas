@@ -1,0 +1,21 @@
+Buat 3 Halaman Web
+
+1.Penggajian (HTML + proses)
+2.Kwitansi Pembelian (HTML + proses)
+3.Pendaftaran SMK (HTML + proses)
+4.Bonus (pakai link / saling terhubung)
+
+input : text, radio, checkbox, select, textarea
+kondisi, aritmatika
+
+
+
+tgl
+NIP
+Nama
+No telp
+jabatan 
+gaji pokok 
+Jam lembur (1jam=50000)
+jumlah hari/26 ($a=../26*gaji pokok) $dik=1/173*gajipokok
+jam kerja = ...jam   ($a*jam kerja*$dik)
