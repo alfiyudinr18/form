@@ -24,9 +24,9 @@
             for ($i=1; $i <= $no; $i++) {
                 ?>    
                 <form action="formarraypro.php" method="post">
-                <label for="nama">Nama: </label>
+                <label for="nama">Nama : </label>
                 <input type="text" required name="nama[]">
-                <label for="nama">Kelas: </label>
+                <label for="nama">Kelas : </label>
                 <input type="text" required name="kelas[]"><br>
                 <br>
         <?php } ?>
